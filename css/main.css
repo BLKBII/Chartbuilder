@@ -1592,7 +1592,7 @@ svg.renderer-svg tspan {
 .d4 .axis .tick:first-child text {
   text-anchor: middle;
 }
-.d4 .axis .tick line {
+.d4 .axis line {
   fill: none;
   stroke: #ddd;
   stroke-width: 1px;
