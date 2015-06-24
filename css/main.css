@@ -1585,7 +1585,7 @@ svg.renderer-svg tspan {
   text-anchor: middle;
 }
 .d4 .axis .tick text {
-  fill: rgb(237,107,112);
+  fill: rgb(79,78,80);
   shape-rendering: crispEdges;
   text-anchor: middle;
 }
