@@ -495,7 +495,7 @@ body {
   display: flex;
   opacity: 1;
   flex-flow: row wrap;
-  border: 1px solid #ccc;
+  border: 1px solid rgb(250,187,107);
 }
 .cb-colorpicker-els.active .cb-colorpicker-el {
   cursor: pointer;
@@ -515,7 +515,7 @@ body {
   position: absolute;
   pointer-events: none;
   border-color: rgba(204,204,204,0);
-  border-right-color: #ccc;
+  border-right-color: rgb(250,187,107);
   border-width: 8px;
   margin-top: -8px;
 }
@@ -570,7 +570,7 @@ body {
   resize: none;
 }
 .cb-text-area:focus {
-  border: 1px solid #ccc;
+  border: 1px solid rgb(250,187,107);
   outline: none;
 }
 .cb-text-input {
@@ -606,7 +606,7 @@ body {
   border: 1px solid #e2e2e2;
 }
 .cb-text-input input:focus {
-  border: 1px solid #ccc;
+  border: 1px solid rgb(250,187,107);
   outline: none;
 }
 .cb-toggle {
@@ -899,434 +899,434 @@ text[data-color-index="0"] {
   background-color: rgb(0,154,61);
 }
 [data-color-index="1"] path {
-  stroke: #fdae61;
+  stroke: rgb(0,121,193);
 }
 [data-color-index="1"] rect {
-  fill: #fdae61;
+  fill: rgb(0,121,193);
 }
 [data-color-index="1"] circle {
-  stroke: #fdae61;
+  stroke: rgb(0,121,193);
   stroke-width: 2px;
-  fill: #fdae61;
+  fill: rgb(0,121,193);
 }
 .color-index-1 {
-  fill: #fdae61;
+  fill: rgb(0,121,193);
 }
 rect[data-color-index="1"] {
-  fill: #fdae61;
+  fill: rgb(0,121,193);
 }
 text[data-color-index="1"] {
-  fill: #fdae61;
+  fill: rgb(0,121,193);
 }
 .d4 .axis .tick text[data-color-index="1"] {
-  fill: #fdae61;
+  fill: rgb(0,121,193);
 }
 .cb-colorpicker-color-1 {
-  background-color: #fdae61;
+  background-color: rgb(0,121,193);
 }
 .series-label-1 {
-  color: #fdae61;
+  color: rgb(0,121,193);
 }
 .series-label-input-1 {
-  border-bottom: 2px solid #fdae61;
+  border-bottom: 2px solid rgb(0,121,193);
 }
 .series-label-input-1:hover,
 .series-label-input-1:focus {
   border: none;
-  border-bottom: 2px solid #fdae61;
+  border-bottom: 2px solid rgb(0,121,193);
 }
 .series-label-input-1 input {
-  color: #fdae61;
+  color: rgb(0,121,193);
 }
 .cb-toggle.toggled.toggle-1 .cb-toggle-container {
-  background-color: #fdae61;
+  background-color: rgb(0,121,193);
 }
 [data-color-index="2"] path {
-  stroke: #d73027;
+  stroke: rgb(108,32,126);
 }
 [data-color-index="2"] rect {
-  fill: #d73027;
+  fill: rgb(108,32,126);
 }
 [data-color-index="2"] circle {
-  stroke: #d73027;
+  stroke: rgb(108,32,126);
   stroke-width: 2px;
-  fill: #d73027;
+  fill: rgb(108,32,126);
 }
 .color-index-2 {
-  fill: #d73027;
+  fill: rgb(108,32,126);
 }
 rect[data-color-index="2"] {
-  fill: #d73027;
+  fill: rgb(108,32,126);
 }
 text[data-color-index="2"] {
-  fill: #d73027;
+  fill: rgb(108,32,126);
 }
 .d4 .axis .tick text[data-color-index="2"] {
-  fill: #d73027;
+  fill: rgb(108,32,126);
 }
 .cb-colorpicker-color-2 {
-  background-color: #d73027;
+  background-color: rgb(108,32,126);
 }
 .series-label-2 {
-  color: #d73027;
+  color: rgb(108,32,126);
 }
 .series-label-input-2 {
-  border-bottom: 2px solid #d73027;
+  border-bottom: 2px solid rgb(108,32,126);
 }
 .series-label-input-2:hover,
 .series-label-input-2:focus {
   border: none;
-  border-bottom: 2px solid #d73027;
+  border-bottom: 2px solid rgb(108,32,126);
 }
 .series-label-input-2 input {
-  color: #d73027;
+  color: rgb(108,32,126);
 }
 .cb-toggle.toggled.toggle-2 .cb-toggle-container {
-  background-color: #d73027;
+  background-color: rgb(108,32,126);
 }
 [data-color-index="3"] path {
-  stroke: #abd9e9;
+  stroke: rgb(227,27,35);
 }
 [data-color-index="3"] rect {
-  fill: #abd9e9;
+  fill: rgb(227,27,35);
 }
 [data-color-index="3"] circle {
-  stroke: #abd9e9;
+  stroke: rgb(227,27,35);
   stroke-width: 2px;
-  fill: #abd9e9;
+  fill: rgb(227,27,35);
 }
 .color-index-3 {
-  fill: #abd9e9;
+  fill: rgb(227,27,35);
 }
 rect[data-color-index="3"] {
-  fill: #abd9e9;
+  fill: rgb(227,27,35);
 }
 text[data-color-index="3"] {
-  fill: #abd9e9;
+  fill: rgb(227,27,35);
 }
 .d4 .axis .tick text[data-color-index="3"] {
-  fill: #abd9e9;
+  fill: rgb(227,27,35);
 }
 .cb-colorpicker-color-3 {
-  background-color: #abd9e9;
+  background-color: rgb(227,27,35);
 }
 .series-label-3 {
-  color: #abd9e9;
+  color: rgb(227,27,35);
 }
 .series-label-input-3 {
-  border-bottom: 2px solid #abd9e9;
+  border-bottom: 2px solid rgb(227,27,35);
 }
 .series-label-input-3:hover,
 .series-label-input-3:focus {
   border: none;
-  border-bottom: 2px solid #abd9e9;
+  border-bottom: 2px solid rgb(227,27,35);
 }
 .series-label-input-3 input {
-  color: #abd9e9;
+  color: rgb(227,27,35);
 }
 .cb-toggle.toggled.toggle-3 .cb-toggle-container {
-  background-color: #abd9e9;
+  background-color: rgb(227,27,35);
 }
 [data-color-index="4"] path {
-  stroke: #f46d43;
+  stroke: rgb(248,151,29);
 }
 [data-color-index="4"] rect {
-  fill: #f46d43;
+  fill: rgb(248,151,29);
 }
 [data-color-index="4"] circle {
-  stroke: #f46d43;
+  stroke: rgb(248,151,29);
   stroke-width: 2px;
-  fill: #f46d43;
+  fill: rgb(248,151,29);
 }
 .color-index-4 {
-  fill: #f46d43;
+  fill: rgb(248,151,29);
 }
 rect[data-color-index="4"] {
-  fill: #f46d43;
+  fill: rgb(248,151,29);
 }
 text[data-color-index="4"] {
-  fill: #f46d43;
+  fill: rgb(248,151,29);
 }
 .d4 .axis .tick text[data-color-index="4"] {
-  fill: #f46d43;
+  fill: rgb(248,151,29);
 }
 .cb-colorpicker-color-4 {
-  background-color: #f46d43;
+  background-color: rgb(248,151,29);
 }
 .series-label-4 {
-  color: #f46d43;
+  color: rgb(248,151,29);
 }
 .series-label-input-4 {
-  border-bottom: 2px solid #f46d43;
+  border-bottom: 2px solid rgb(248,151,29);
 }
 .series-label-input-4:hover,
 .series-label-input-4:focus {
   border: none;
-  border-bottom: 2px solid #f46d43;
+  border-bottom: 2px solid rgb(248,151,29);
 }
 .series-label-input-4 input {
-  color: #f46d43;
+  color: rgb(248,151,29);
 }
 .cb-toggle.toggled.toggle-4 .cb-toggle-container {
-  background-color: #f46d43;
+  background-color: rgb(248,151,29);
 }
 [data-color-index="5"] path {
-  stroke: #74add1;
+  stroke: rgb(255,210,0);
 }
 [data-color-index="5"] rect {
-  fill: #74add1;
+  fill: rgb(255,210,0);
 }
 [data-color-index="5"] circle {
-  stroke: #74add1;
+  stroke: rgb(255,210,0);
   stroke-width: 2px;
-  fill: #74add1;
+  fill: rgb(255,210,0);
 }
 .color-index-5 {
-  fill: #74add1;
+  fill: rgb(255,210,0);
 }
 rect[data-color-index="5"] {
-  fill: #74add1;
+  fill: rgb(255,210,0);
 }
 text[data-color-index="5"] {
-  fill: #74add1;
+  fill: rgb(255,210,0);
 }
 .d4 .axis .tick text[data-color-index="5"] {
-  fill: #74add1;
+  fill: rgb(255,210,0);
 }
 .cb-colorpicker-color-5 {
-  background-color: #74add1;
+  background-color: rgb(255,210,0);
 }
 .series-label-5 {
-  color: #74add1;
+  color: rgb(255,210,0);
 }
 .series-label-input-5 {
-  border-bottom: 2px solid #74add1;
+  border-bottom: 2px solid rgb(255,210,0);
 }
 .series-label-input-5:hover,
 .series-label-input-5:focus {
   border: none;
-  border-bottom: 2px solid #74add1;
+  border-bottom: 2px solid rgb(255,210,0);
 }
 .series-label-input-5 input {
-  color: #74add1;
+  color: rgb(255,210,0);
 }
 .cb-toggle.toggled.toggle-5 .cb-toggle-container {
-  background-color: #74add1;
+  background-color: rgb(255,210,0);
 }
 [data-color-index="6"] path {
-  stroke: #4575b4;
+  stroke: rgb(89,189,129);
 }
 [data-color-index="6"] rect {
-  fill: #4575b4;
+  fill: rgb(89,189,129);
 }
 [data-color-index="6"] circle {
-  stroke: #4575b4;
+  stroke: rgb(89,189,129);
   stroke-width: 2px;
-  fill: #4575b4;
+  fill: rgb(89,189,129);
 }
 .color-index-6 {
-  fill: #4575b4;
+  fill: rgb(89,189,129);
 }
 rect[data-color-index="6"] {
-  fill: #4575b4;
+  fill: rgb(89,189,129);
 }
 text[data-color-index="6"] {
-  fill: #4575b4;
+  fill: rgb(89,189,129);
 }
 .d4 .axis .tick text[data-color-index="6"] {
-  fill: #4575b4;
+  fill: rgb(89,189,129);
 }
 .cb-colorpicker-color-6 {
-  background-color: #4575b4;
+  background-color: rgb(89,189,129);
 }
 .series-label-6 {
-  color: #4575b4;
+  color: rgb(89,189,129);
 }
 .series-label-input-6 {
-  border-bottom: 2px solid #4575b4;
+  border-bottom: 2px solid rgb(89,189,129);
 }
 .series-label-input-6:hover,
 .series-label-input-6:focus {
   border: none;
-  border-bottom: 2px solid #4575b4;
+  border-bottom: 2px solid rgb(89,189,129);
 }
 .series-label-input-6 input {
-  color: #4575b4;
+  color: rgb(89,189,129);
 }
 .cb-toggle.toggled.toggle-6 .cb-toggle-container {
-  background-color: #4575b4;
+  background-color: rgb(89,189,129);
 }
 [data-color-index="7"] path {
-  stroke: #313695;
+  stroke: rgb(89,167,215);
 }
 [data-color-index="7"] rect {
-  fill: #313695;
+  fill: rgb(89,167,215);
 }
 [data-color-index="7"] circle {
-  stroke: #313695;
+  stroke: rgb(89,167,215);
   stroke-width: 2px;
-  fill: #313695;
+  fill: rgb(89,167,215);
 }
 .color-index-7 {
-  fill: #313695;
+  fill: rgb(89,167,215);
 }
 rect[data-color-index="7"] {
-  fill: #313695;
+  fill: rgb(89,167,215);
 }
 text[data-color-index="7"] {
-  fill: #313695;
+  fill: rgb(89,167,215);
 }
 .d4 .axis .tick text[data-color-index="7"] {
-  fill: #313695;
+  fill: rgb(89,167,215);
 }
 .cb-colorpicker-color-7 {
-  background-color: #313695;
+  background-color: rgb(89,167,215);
 }
 .series-label-7 {
-  color: #313695;
+  color: rgb(89,167,215);
 }
 .series-label-input-7 {
-  border-bottom: 2px solid #313695;
+  border-bottom: 2px solid rgb(89,167,215);
 }
 .series-label-input-7:hover,
 .series-label-input-7:focus {
   border: none;
-  border-bottom: 2px solid #313695;
+  border-bottom: 2px solid rgb(89,167,215);
 }
 .series-label-input-7 input {
-  color: #313695;
+  color: rgb(89,167,215);
 }
 .cb-toggle.toggled.toggle-7 .cb-toggle-container {
-  background-color: #313695;
+  background-color: rgb(89,167,215);
 }
 [data-color-index="8"] path {
-  stroke: #999;
+  stroke: rgb(159,111,170);
 }
 [data-color-index="8"] rect {
-  fill: #999;
+  fill: rgb(159,111,170);
 }
 [data-color-index="8"] circle {
-  stroke: #999;
+  stroke: rgb(159,111,170);
   stroke-width: 2px;
-  fill: #999;
+  fill: rgb(159,111,170);
 }
 .color-index-8 {
-  fill: #999;
+  fill: rgb(159,111,170);
 }
 rect[data-color-index="8"] {
-  fill: #999;
+  fill: rgb(159,111,170);
 }
 text[data-color-index="8"] {
-  fill: #999;
+  fill: rgb(159,111,170);
 }
 .d4 .axis .tick text[data-color-index="8"] {
-  fill: #999;
+  fill: rgb(159,111,170);
 }
 .cb-colorpicker-color-8 {
-  background-color: #999;
+  background-color: rgb(159,111,170);
 }
 .series-label-8 {
-  color: #999;
+  color: rgb(159,111,170);
 }
 .series-label-input-8 {
-  border-bottom: 2px solid #999;
+  border-bottom: 2px solid rgb(159,111,170);
 }
 .series-label-input-8:hover,
 .series-label-input-8:focus {
   border: none;
-  border-bottom: 2px solid #999;
+  border-bottom: 2px solid rgb(159,111,170);
 }
 .series-label-input-8 input {
-  color: #999;
+  color: rgb(159,111,170);
 }
 .cb-toggle.toggled.toggle-8 .cb-toggle-container {
-  background-color: #999;
+  background-color: rgb(159,111,170);
 }
 [data-color-index="9"] path {
-  stroke: #666;
+  stroke: rgb(237,107,112);
 }
 [data-color-index="9"] rect {
-  fill: #666;
+  fill: rgb(237,107,112);
 }
 [data-color-index="9"] circle {
-  stroke: #666;
+  stroke: rgb(237,107,112);
   stroke-width: 2px;
-  fill: #666;
+  fill: rgb(237,107,112);
 }
 .color-index-9 {
-  fill: #666;
+  fill: rgb(237,107,112);
 }
 rect[data-color-index="9"] {
-  fill: #666;
+  fill: rgb(237,107,112);
 }
 text[data-color-index="9"] {
-  fill: #666;
+  fill: rgb(237,107,112);
 }
 .d4 .axis .tick text[data-color-index="9"] {
-  fill: #666;
+  fill: rgb(237,107,112);
 }
 .cb-colorpicker-color-9 {
-  background-color: #666;
+  background-color: rgb(237,107,112);
 }
 .series-label-9 {
-  color: #666;
+  color: rgb(237,107,112);
 }
 .series-label-input-9 {
-  border-bottom: 2px solid #666;
+  border-bottom: 2px solid rgb(237,107,112);
 }
 .series-label-input-9:hover,
 .series-label-input-9:focus {
   border: none;
-  border-bottom: 2px solid #666;
+  border-bottom: 2px solid rgb(237,107,112);
 }
 .series-label-input-9 input {
-  color: #666;
+  color: rgb(237,107,112);
 }
 .cb-toggle.toggled.toggle-9 .cb-toggle-container {
-  background-color: #666;
+  background-color: rgb(237,107,112);
 }
 [data-color-index="10"] path {
-  stroke: #ccc;
+  stroke: rgb(250,187,107);
 }
 [data-color-index="10"] rect {
-  fill: #ccc;
+  fill: rgb(250,187,107);
 }
 [data-color-index="10"] circle {
-  stroke: #ccc;
+  stroke: rgb(250,187,107);
   stroke-width: 2px;
-  fill: #ccc;
+  fill: rgb(250,187,107);
 }
 .color-index-10 {
-  fill: #ccc;
+  fill: rgb(250,187,107);
 }
 rect[data-color-index="10"] {
-  fill: #ccc;
+  fill: rgb(250,187,107);
 }
 text[data-color-index="10"] {
-  fill: #ccc;
+  fill: rgb(250,187,107);
 }
 .d4 .axis .tick text[data-color-index="10"] {
-  fill: #ccc;
+  fill: rgb(250,187,107);
 }
 .cb-colorpicker-color-10 {
-  background-color: #ccc;
+  background-color: rgb(250,187,107);
 }
 .series-label-10 {
-  color: #ccc;
+  color: rgb(250,187,107);
 }
 .series-label-input-10 {
-  border-bottom: 2px solid #ccc;
+  border-bottom: 2px solid rgb(250,187,107);
 }
 .series-label-input-10:hover,
 .series-label-input-10:focus {
   border: none;
-  border-bottom: 2px solid #ccc;
+  border-bottom: 2px solid rgb(250,187,107);
 }
 .series-label-input-10 input {
-  color: #ccc;
+  color: rgb(250,187,107);
 }
 .cb-toggle.toggled.toggle-10 .cb-toggle-container {
-  background-color: #ccc;
+  background-color: rgb(250,187,107);
 }
 @font-face {
   font-family: 'Khula-Light';
@@ -1373,7 +1373,7 @@ text[data-color-index="10"] {
 html,
 body {
   min-width: 290px;
-  color: #666;
+  color: rgb(237,107,112);
   max-width: 100%;
   overflow-x: none;
 }
@@ -1382,7 +1382,7 @@ h2,
 h4,
 h5 {
   font-family: "Khula-Bold", Arial, sans-serif;
-  color: #666;
+  color: rgb(237,107,112);
 }
 h1 {
   line-height: 50px;
@@ -1446,15 +1446,15 @@ select {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   margin-bottom: 1em;
-  color: #666;
-  border: 1px solid #ccc;
+  color: rgb(237,107,112);
+  border: 1px solid rgb(250,187,107);
   font-family: 'Khula-Regular', Arial, Helvetica, sans-serif;
   background-color: #fff;
 }
 textarea:focus,
 select:focus,
 input:focus {
-  outline: #999 1px solid;
+  outline: rgb(159,111,170) 1px solid;
 }
 textarea {
   font-size: 0.75em;
@@ -1585,7 +1585,7 @@ svg.renderer-svg tspan {
   text-anchor: middle;
 }
 .d4 .axis .tick text {
-  fill: #666;
+  fill: rgb(237,107,112);
   shape-rendering: crispEdges;
   text-anchor: middle;
 }
@@ -1621,7 +1621,7 @@ svg.renderer-svg tspan {
   font-family: 'Khula-Light', Arial, Helvetica, sans-serif;
 }
 .d4 .concealer-label text {
-  fill: #666;
+  fill: rgb(237,107,112);
 }
 .d4 .concealer-label rect {
   fill: #fff;
@@ -1645,7 +1645,7 @@ svg.renderer-svg tspan {
   font-family: 'Khula-Light', Arial, Helvetica, sans-serif;
 }
 .d4 .column-label {
-  fill: #666;
+  fill: rgb(237,107,112);
 }
 .d4 line.no-label-tick {
   fill: none;
@@ -1659,12 +1659,12 @@ svg.renderer-svg tspan {
 }
 .svg-text.svg-text-credit {
   font-size: 12px;
-  fill: #ccc;
+  fill: rgb(250,187,107);
   text-anchor: start;
 }
 .svg-text.svg-text-source {
   font-size: 12px;
-  fill: #ccc;
+  fill: rgb(250,187,107);
 }
 .svg-text.left {
   text-anchor: start;
@@ -1673,12 +1673,12 @@ svg.renderer-svg tspan {
   text-anchor: end;
 }
 .svg-text-title {
-  fill: #666;
+  fill: rgb(237,107,112);
   font-family: 'Khula-Regular', Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
 .svg-source-pipe {
-  stroke: #ccc;
+  stroke: rgb(250,187,107);
   fill: none;
   stroke-width: 0.8px;
 }
@@ -1772,7 +1772,7 @@ svg.renderer-svg tspan {
   font-size: 20px;
 }
 .cb-credit-logo {
-  fill: #ccc;
+  fill: rgb(250,187,107);
 }
 .chartbuilder-editor {
   margin-left: 680px;
@@ -1924,7 +1924,7 @@ svg.renderer-svg tspan {
   appearance: none;
 }
 .chartbuilder-editor .typesection input[type="checkbox"]:checked {
-  background-color: #999;
+  background-color: rgb(159,111,170);
 }
 .chartbuilder-editor .hidden {
   display: none;
