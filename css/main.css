@@ -1562,7 +1562,7 @@ div.renderer-wrapper {
 }
 svg.renderer-svg {
   fill: #fff;
-  font-family: 'Khula-Light', Arial, Helvetica, sans-serif;
+  font-family:  Arial, Helvetica, sans-serif;
   text-rendering: optimizeLegibility;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -1579,7 +1579,7 @@ svg.renderer-svg tspan {
   font-size: 20px;
 }
 .d4 .axis .tick {
-  font-family: 'Khula-Light', Arial, Helvetica, sans-serif;
+  font-family:  Arial, Helvetica, sans-serif;
 }
 .d4 .axis .tick[data-anchor="middle"] text {
   text-anchor: middle;
@@ -1618,7 +1618,7 @@ svg.renderer-svg tspan {
   text-anchor: start;
 }
 .d4 .concealer-label {
-  font-family: 'Khula-Light', Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .d4 .concealer-label text {
   fill: rgb(237,107,112);
@@ -1642,7 +1642,7 @@ svg.renderer-svg tspan {
   stroke-linejoin: round;
 }
 .d4 .margins .label {
-  font-family: 'Khula-Light', Arial, Helvetica, sans-serif;
+  font-family:  Arial, Helvetica, sans-serif;
 }
 .d4 .column-label {
   fill: rgb(237,107,112);
@@ -1654,7 +1654,7 @@ svg.renderer-svg tspan {
   shape-rendering: crispEdges;
 }
 .svg-text {
-  font-family: 'Khula-Light', Arial, Helvetica, sans-serif;
+  font-family:  Arial, Helvetica, sans-serif;
   font-size: 20px;
 }
 .svg-text.svg-text-credit {
@@ -1684,7 +1684,7 @@ svg.renderer-svg tspan {
 }
 .svg-label-text {
   font-size: 20px;
-  font-family: 'Khula-Light', Arial, Helvetica, sans-serif;
+  font-family:  Arial, Helvetica, sans-serif;
   cursor: move;
 }
 .crosshair line {
