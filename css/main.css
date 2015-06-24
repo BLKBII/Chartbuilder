@@ -1594,7 +1594,7 @@ svg.renderer-svg tspan {
 }
 .d4 .axis .tick line {
   fill: none;
-  stroke: #ddd;
+  stroke: white;
   stroke-width: 1px;
   shape-rendering: crispEdges;
 }
