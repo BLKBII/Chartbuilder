@@ -1592,18 +1592,13 @@ svg.renderer-svg tspan {
 .d4 .axis .tick:first-child text {
   text-anchor: middle;
 }
-.d4 .axis line {
+.d4 .axis .tick line {
   fill: none;
   stroke: #ddd;
   stroke-width: 1px;
   shape-rendering: crispEdges;
 }
-.d4 .tick line {
-  fill: none;
-  stroke: white;
-  stroke-width: 1px;
-  shape-rendering: crispEdges;
-}
+
 .d4 .axis .tick.zero line {
   stroke: #333;
 }
