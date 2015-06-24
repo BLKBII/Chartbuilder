@@ -1659,7 +1659,7 @@ svg.renderer-svg tspan {
 }
 .svg-text.svg-text-credit {
   font-size: 12px;
-  fill: rgb(250,187,107);
+  fill: rgb(79,78,80);
   text-anchor: start;
 }
 .svg-text.svg-text-source {
